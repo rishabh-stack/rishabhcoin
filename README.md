@@ -1,2 +1,2 @@
 # rishabhcoin
-this is my ownn crypto currency registered at Etherscan
+'RT' my own crypto currency registered at Etherscan 
